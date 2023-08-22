@@ -7,6 +7,8 @@ nsfw-detector and PyQt5
 
 This works every images, not only real photo but paintings such as anime too.
 
+Having the background feature as well, for person who want to handle a lot of images with this
+
 ## How to Run
 1. clone this
 2. pip install -r requirements.txt
